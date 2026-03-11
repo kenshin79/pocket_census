@@ -1,7 +1,7 @@
-# pocket_census
+# Pocket Census
 Handy app for patient rounds and census
 
-Privacy Policy for Pocket Census
+# Privacy Policy for Pocket Census
 Last Updated: February 22, 2026
 Pocket Census ("the App") is developed as a tool for healthcare professionals to manage patient census and clinical records. Your privacy and the security of the data you manage are our top priorities.
 1. Information Collection and Use
