@@ -1,4 +1,4 @@
-# pocket_censuus
+# pocket_census
 Handy app for patient rounds and census
 
 Privacy Policy for Pocket Census
